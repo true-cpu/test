@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\QLSV\QLSV\QLSV\bin\Debug\QLSV.exe.config
+C:\Users\Admin\Desktop\QLSV\QLSV\QLSV\bin\Debug\QLSV.exe
+C:\Users\Admin\Desktop\QLSV\QLSV\QLSV\bin\Debug\QLSV.pdb
+C:\Users\Admin\Desktop\QLSV\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\QLSV\QLSV\QLSV\obj\Debug\QLSV.FormMain.resources
+C:\Users\Admin\Desktop\QLSV\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+C:\Users\Admin\Desktop\QLSV\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\QLSV\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QLSV\QLSV\QLSV\obj\Debug\QLSV.exe
+C:\Users\Admin\Desktop\QLSV\QLSV\QLSV\obj\Debug\QLSV.pdb
